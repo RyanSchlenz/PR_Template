@@ -26,3 +26,14 @@
 ## Related Issues
 Closes #[issue number]
 Related to #[issue number]
+
+## Checklist
+   Code follows style guidelines
+   Documentation has been updated
+   Tests have been added/updated and are passing
+   Self-review of code completed
+   PR is of reasonable size and scope
+   No unnecessary commented-out code or debug statements
+   Accessibility considerations addressed
+   Security implications considered
+   Performance impact evaluated
